@@ -1,6 +1,6 @@
 {
   "name": "resumable",
-  "version": "0.0.1",
+  "version": "0.0.1-1",
   "description": "Let a task queue be resumable.",
   "main": "index.js",
   "scripts": {
